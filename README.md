@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasum(Pratik/Suman Rai)
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on django
+- 👀 I’m passionate in coding and solving problems.
+- 🌱 I’m currently learning next js and node js. 
+- 💞️ I’m looking to collaborate on next js python and react.
 - 📫 How to reach me through my email sumpra17@gmail.com
 
 <!---
